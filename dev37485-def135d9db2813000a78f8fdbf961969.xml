@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-03-13 03:16:23"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description>https://blog.jacebenson.com/Service-Portal/Code-Search/&#13;
+Features:&#13;
+Table of Contents of results&#13;
+Inline code that is found&#13;
+Sys ID Search&#13;
+Setup:&#13;
+1.Open Studio on your environment&#13;
+2. Import from source&#13;
+3. Paste in the following url: https://gitlab.com/jacebenson/servicenow-codesearch.git&#13;
+Usage:&#13;
+After you import this you can start to use it by navigating to /$sp?id=code_search on your instance.</description><inserted/><name>JaceBenson CodeSearch</name><origin_sys_id/><parent/><release_date/><remote_base_update_set/><remote_parent_id/><remote_sys_id>def135d9db2813000a78f8fdbf961969</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-03-13 03:16:23</sys_created_on><sys_id>e70fd2f9db7813000a78f8fdbf96194d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-03-13 03:16:23</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set></unload>
